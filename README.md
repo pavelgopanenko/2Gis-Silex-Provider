@@ -3,6 +3,8 @@ Silex Provider для API 2GIS
 
 Расширение Silex поставщиком данных из API 2GIS. Провайдер оборачивает компонент `2gis/api-client`.
 
+[![Build Status](https://travis-ci.org/pavelgopanenko/2Gis-Silex-Provider.svg)](https://travis-ci.org/pavelgopanenko/2Gis-Silex-Provider)
+
 ## Установка
 
 ### composer
